@@ -6,32 +6,32 @@
             <h2 class="competences"> Compétences techniques </h2> 
             <div class="flex forSkills">
                 <div class="skill icon">
-                    <img src="/src/assets/images/r-project-icon-size_512.png">
+                    <img src="/src/assets/images/r-project-icon-size_512.png" alt="r-icon">
                     <h3>R</h3>
                 </div>
 
                 <div class="skill icon">
-                    <img src="/src/assets/images/python-icon-size_512.png">
+                    <img src="/src/assets/images/python-icon-size_512.png" alt="python-icon">
                     <h3>Python</h3>
                 </div>
 
                 <div class="skill icon">
-                    <img src="/src/assets/images/wordpress-icon-size_512.png">
+                    <img src="/src/assets/images/wordpress-icon-size_512.png" alt="Wordpress-icon">
                     <h3>Wordpress</h3>
                 </div>
 
                 <div class="skill icon">
-                    <img src="/src/assets/images/html-icon-size_512.png">
+                    <img src="/src/assets/images/html-icon-size_512.png" alt="html-icon">
                     <h3>HTML</h3>
                 </div>
 
                 <div class="skill icon">
-                    <img src="/src/assets/images/css3-alt-icon-size_512.png">
+                    <img src="/src/assets/images/css3-alt-icon-size_512.png" alt="css-icon">
                     <h3>CSS</h3>
                 </div>
 
                 <div class="skill icon">
-                    <img src="/src/assets/images/node-js-icon-size_512.png">
+                    <img src="/src/assets/images/node-js-icon-size_512.png" alt="node-icon">
                     <h3>Javascript</h3>
                 </div>
 
@@ -42,12 +42,12 @@
            <div class="flex forReal">
               <div class="reals img">
                   <a href="https://c3rp.fr/" target="_blank">
-                  <img src="/src/assets/images/c3rp-icon.jpg"> </a>
+                  <img src="/src/assets/images/c3rp-icon.jpg" alt="c3rp-icon"> </a>
                   <h3>C3RP</h3>
               </div>
               <div class="reals img">
                  <a href="https://ecrf.ghu-paris.fr/index.php?action=myprojects" target="_blank">
-                 <img src="/src/assets/images/RedCap-icon.png"> </a>
+                 <img src="/src/assets/images/RedCap-icon.png" alt="redcap-icon"> </a>
                  <h3>SUIREHAB</h3>
               </div>
 
