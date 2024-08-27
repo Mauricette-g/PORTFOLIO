@@ -12,7 +12,7 @@
   </div>
 
   <div class="header">
-    <img src="/src/assets/images/profil3.jpg" class="header-background">
+    <img src="/src/assets/images/profil3.jpg" alt="profil-head" class="header-background">
     <div class="header-info">
       <h1> Mauricette Irène MENDY</h1>
       <p> Passionnée de développement d'applications web. <br> Découvrez mon portfolio pour plus d'infos. </p>
@@ -30,7 +30,6 @@
     list-style: none;
     text-decoration: none;
     font-family: "Ubuntu", sans-serif;
-    font-optical-sizing: auto;
     font-style: normal;
     cursor: pointer;
 }
