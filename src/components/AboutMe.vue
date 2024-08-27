@@ -1,7 +1,7 @@
 <template>
   <div class="section about">
     <div class="about-img">
-      <img src="/src/assets/images/profilCarre.jpg" alt="">
+      <img src="/src/assets/images/profilCarre.jpg" alt="photo-profil">
     </div>
 
     <div class="my-info">
@@ -28,23 +28,23 @@
 
       <div class="my-info2">
         <div class="resume-header">
-          <a href="https://github.com/Mauricette-g/Main" target="_blank"><button onclick="window.locationhref=''" class="h4-resume-title"><i class="fa fa-address-card"></i> Mon CV</button></a>
+          <a class="h4-resume-title" href="https://github.com/Mauricette-g/Main" target="_blank"><i class="fa fa-address-card"></i> Mon CV </a>
           <h2>Formations et Expériences pro</h2>
         </div>
         <div class="resume-cards">
-          <h3 id="c1"> 2020-present</h3>
+          <h3 class="c1"> 2020-present</h3>
           <h3> Datamanager</h3>
           <h3>[ Au GHU Paris Psychiatrie et Neurosciences Paris ]</h3>
           <p> Création de bases de données cliniques (eCRF), maintenance de la base de données. <br> Analyse statistique de données <br> Webmaster site du C3RP <br> Création d'un outil Parcours-patient </p>
         </div>
         <div class="resume-cards">
-          <h3 id="c1"> 2019-2020</h3>
+          <h3 class="c1"> 2019-2020</h3>
           <h3> Enseignante Excel et VBA</h3>
           <h3>[ A INSEEC MBA SCHOOL Paris ]</h3>
           <p> En charge des cours de Excel et VBA niveau Licence et Master.</p>
         </div>
         <div class="resume-cards">
-          <h3 id="c1"> 2017-2019</h3>
+          <h3 class="c1"> 2017-2019</h3>
           <h3> Etudiante en Bioinformatique </h3>
           <h3>[A Sorbonne Université - Pierre et Marie Curie ]</h3>
           <p></p>
@@ -188,6 +188,7 @@
 }
 
 .h4-resume-title{
+  display: inline-block;
   font-size: 20px;
 
 }
@@ -200,7 +201,7 @@
   gap: 10px;
 }
 
-#c1{
+.c1{
   color: #123d5a;
 }
 .resume-cards p{
