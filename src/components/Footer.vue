@@ -11,7 +11,7 @@
     <footer class="footer">
         <div class="footer-content">
             <div class="footer-adress">
-                <h3>Mes contacts</h3>
+                <h3>Contacts</h3>
                 <address>
                     <a href="mailto:support@gmail.com"><i class="fa fa-envelope"></i>support@gmail.com</a>
                     <a href="tel:+0677777777"><i class="fa fa-phone"></i>+0677777777</a>
