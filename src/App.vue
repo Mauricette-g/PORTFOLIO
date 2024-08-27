@@ -4,8 +4,8 @@
 </script>
 
 <template>
-  <main>
-    <Header/> 
+  <Header/>
+  <main> 
     <RouterView></RouterView>
   </main>
 
